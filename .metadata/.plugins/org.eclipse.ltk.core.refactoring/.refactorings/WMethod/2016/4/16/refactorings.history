@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;WMethod/output&apos; to &apos;Task2&apos;" description="Rename resource &apos;output&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="output" name="Task2" stamp="1460402652396" updateReferences="true"/>
+</session>
